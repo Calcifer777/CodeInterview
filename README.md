@@ -1,2 +1,2 @@
 # CodeInterview
-Solution to CodeInterview questions
+Solution to interviews coding questions
