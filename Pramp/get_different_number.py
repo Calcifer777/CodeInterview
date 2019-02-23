@@ -1,3 +1,6 @@
+# Given an array of unique non-negative integers, find the smallest number
+# that is not in the array
+
 from random import randint
 
 
